@@ -1,0 +1,10 @@
+name: my_shiny_dash
+title:
+username:
+account: benconrads
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2234212
+bundleId: 3097755
+url: https://benconrads.shinyapps.io/my_shiny_dash/
+when: 1588530692.8153
